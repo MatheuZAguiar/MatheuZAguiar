@@ -1,0 +1,283 @@
+body{
+    color: #FFFFFF;
+    font-family: 'Inter';
+    padding: 0px;
+    margin: 0px;
+}
+
+@media screen and (max-width:320px){
+#sectionhome{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color:#043873;
+    gap: 10px;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../imagens/LinhasMobile.png);
+}
+#header1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#logo{
+    display: flex;
+    align-items: center;
+}
+#h2{
+    margin: 0px;
+}
+#h1white{
+    width: 250px;
+    height: 80px;
+    color: white;
+    font-weight: 700;
+    font-size: 54px;
+    text-align: center;
+    line-height: 65px;
+    color: #FFFFFF;
+    margin: 0px;
+    margin-top: 80px;
+    letter-spacing: -0.02em;
+}
+#p1white{
+    margin: 0px;
+    font-weight: 400;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 24px;
+}
+#buttonTry{
+    width: 232px;
+    height: 70px;
+    color: #FFFFFF;
+    font-style: normal;
+    align-items: center;
+    padding: 20px 40px;
+    border: none;
+    width: 232px;
+    height: 70px;
+    background: #4F9CF9;
+    border-radius: 8px;
+    margin-top: 60px;
+}
+#sectionDesc{
+    background-color: #FFFFFF;
+    margin: 0px;
+    padding: 0px;
+    height: 120vh;
+    width: 100vw;
+}
+#divtext2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+#h2Work{
+    color: #212529;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+}
+#p2With{
+    color: #212529;
+    width: 288px;
+    height: 150px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    margin: 0px;
+}
+#buttonTryId2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 40px;
+    gap: 10px;
+    width: 185px;
+    height: 70px;
+    background: #4F9CF9;
+    border-radius: 8px;
+    border:none;
+    color: #FFFFFF;
+}
+#imgcirculos{
+    margin-top: 20px;
+    width: 260px;
+    height: 260px;
+}
+#sectionend{
+    background: #043873;
+    width: 100vw;
+    height: 40vh;
+    margin-top: 70px;
+}
+#footerblue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+}
+
+}
+
+
+@media screen and (max-width:768px) {
+    #sectionhome{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        background-color:#043873;
+        gap: 10px;
+        width: 100vw;
+        height: 100vh;
+        background-image: url(../imagens/LinhasTablet.png);
+    }
+    #header1{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    #nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    #logo{
+        display: flex;
+        align-items: center;
+    }
+    #h2{
+        margin: 0px;
+    }
+    #h1white{
+    width: 728px;
+    height: 130px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 65px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+    }
+    #p1white{
+        margin: 0px;
+        font-weight: 400;
+        text-align: center;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 30px;
+        margin-top: 24px;
+    }
+    #buttonTry{
+        width: 232px;
+        height: 70px;
+        color: #FFFFFF;
+        font-style: normal;
+        align-items: center;
+        padding: 20px 40px;
+        border: none;
+        width: 232px;
+        height: 70px;
+        background: #4F9CF9;
+        border-radius: 8px;
+        margin-top: 60px;
+    }
+    #sectionDesc{
+        background-color: #FFFFFF;
+        margin: 0px;
+        padding: 0px;
+        height: 120vh;
+        width: 100vw;
+    }
+    #divtext2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 10px;
+    }
+    #h2Work{
+        color: #212529;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #p2With{
+        color: #212529;
+        width: 288px;
+        height: 150px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 30px;
+        text-align: center;
+        letter-spacing: -0.02em;
+        margin: 0px;
+    }
+    #buttonTryId2{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 40px;
+        gap: 10px;
+        width: 185px;
+        height: 70px;
+        background: #4F9CF9;
+        border-radius: 8px;
+        border:none;
+        color: #FFFFFF;
+    }
+    #imgcirculos{
+        margin-top: 20px;
+        width: 260px;
+        height: 260px;
+    }
+    #sectionend{
+        background: #043873;
+        width: 100vw;
+        height: 10vh;
+        margin-top: 70px;
+    }
+    #footerblue{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        gap: 40px;
+        width: 100vw;
+    }
+    
+}
+
+@media screen and (max-width:1260px){
+    
+}

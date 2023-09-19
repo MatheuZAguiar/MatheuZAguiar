@@ -11,7 +11,7 @@
 <div align="center">
     <h2>Meus Commits</h2>
         
-![Snake animation](https://github.com/MatheuZAguiar/cobrinha-profile/blob/main/dist/github-snake.svg)
+![Snake animation](https://github.com/MatheuZAguiar/MatheuZAguiar/blob/main/dist/github-snake.svg)
 
 </div>
 

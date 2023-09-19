@@ -10,6 +10,7 @@
     
 <div align="center">
     <h2>Meus Commits</h2>
+        
 ![Snake animation](https://github.com/MatheuZAguiar/MatheuZAguiar/blob/output/github-contribution-grid-snake.svg)
 
 </div>
